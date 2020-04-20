@@ -1,0 +1,32 @@
+#top {
+  font-family: fantasy;
+  position: fixed;
+  left: 200px;
+  top: 150px;
+  color: Purple;
+}
+
+h2 {
+  font-family: Comic-Sans;
+}
+
+.attribution{
+  font-size:10%;
+}
+
+.conversation {
+  color: #58017f;
+  text-decoration: underline;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  font-size: 120%;
+}
+a:visited{
+  color: #888888;
+}
+© 2020 GitHub, Inc.
